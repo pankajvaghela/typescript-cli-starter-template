@@ -1,8 +1,9 @@
 {
-  "name": "typescript-cli-starter",
+  "name": "typescript-cli-starter-template",
   "version": "1.0.0",
-  "description": "CLI starter project for typescript",
+  "description": "Template for CLI project for typescript",
   "keywords": [
+    "template",
     "typescript",
     "cli",
     "starter"
